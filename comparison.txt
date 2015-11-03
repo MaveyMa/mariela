@@ -1,0 +1,9 @@
+Names: Nicole Hipolito, Carlos Huizar, Mavey Ma, Mario Martinez.
+
+                                                  two_a.txt                     two_b.txt	  % difference
+Mean                                              0.002435                      0.002306            5.437694            
+Standard Deviation                                0.334079                      0.322250            3.604677            
+Variance                                          0.111609                      0.103845            7.207014            
+Average Power                                     0.111615                      0.103850            7.207205            
+Average Magnitude                                 0.226944                      0.273091            18.457686           
+Number fo Zero Crossings                          111                           67                  49.438202           
